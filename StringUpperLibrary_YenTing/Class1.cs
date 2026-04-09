@@ -1,4 +1,4 @@
-﻿namespace UtilityLibraries;
+﻿namespace StringUpperLibrary_YenTing;
 
 public static class StringLibrary
 {
